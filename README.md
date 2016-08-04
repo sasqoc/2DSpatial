@@ -16,7 +16,7 @@ Simple application to test collision checks in broad phase using spatial hashing
 
 <ul class="task-list">
     <li>
-        <a href="http://2DSpatial.zz.mu">WebGL/Browser</a>
+        <a href="http://sasqoc.zz.mu/games/2DSpatial/">WebGL/Browser</a>
     </li>
 </ul>
 
